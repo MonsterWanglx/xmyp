@@ -1,0 +1,1 @@
+"use strict";fixed_nav5.onclick=function(){document.documentElement.scrollTop=0,document.body.scrollTop=0};
